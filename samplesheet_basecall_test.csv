@@ -1,0 +1,3 @@
+sample,input_dir,file_ext
+PAM14583_0,https://raw.githubusercontent.com/stjudecab/test_datasets/ont-basecall/pod5/PAM14583_ee1ba89e_88.pod5,pod5
+PAM14583_1,https://raw.githubusercontent.com/stjudecab/test_datasets/ont-basecall/fast5/PAM14583_ee1ba89e_88.fast5,fast5
