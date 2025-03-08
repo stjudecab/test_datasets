@@ -1,0 +1,3 @@
+sample,read
+PAM14583_0,https://raw.githubusercontent.com/stjudecab/test_datasets/ont-10xscrnaseq/bams/pam14583_0.unaligned.bam
+PAM14583_1,https://raw.githubusercontent.com/stjudecab/test_datasets/ont-10xscrnaseq/bams/pam14583_1.unaligned.bam
