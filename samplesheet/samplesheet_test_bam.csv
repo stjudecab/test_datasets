@@ -1,2 +1,2 @@
-sample,read
-PAM14583_0,https://raw.githubusercontent.com/stjudecab/test_datasets/ont-10xscrnaseq/bams/pam14583_0.unaligned.bam
+sample,read,cell_count
+PAM14583_0,https://raw.githubusercontent.com/stjudecab/test_datasets/ont-10xscrnaseq/bams/pam14583_0.unaligned.bam,1000
