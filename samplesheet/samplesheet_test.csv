@@ -1,0 +1,3 @@
+sample,fastq_1,fastq_2
+P90006023,https://raw.githubusercontent.com/stjudecab/test_datasets/rsvrecon/fastqs/P90006023_RSVA_Illumina_S1_L001_R1_001.fastq.gz,https://raw.githubusercontent.com/stjudecab/test_datasets/rsvrecon/fastqs/P90006023_RSVA_Illumina_S1_L001_R2_001.fastq.gz
+P90006037,https://raw.githubusercontent.com/stjudecab/test_datasets/rsvrecon/fastqs/P90006037_RSVB_Illumina_S4_L001_R1_001.fastq.gz,https://raw.githubusercontent.com/stjudecab/test_datasets/rsvrecon/fastqs/P90006037_RSVB_Illumina_S4_L001_R2_001.fastq.gz
