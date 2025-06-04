@@ -1,0 +1,2 @@
+sample,input_dir,file_ext
+Test_Sample,https://raw.githubusercontent.com/stjudecab/test_datasets/ont-basecall/10X/test_singlecell.tar.gz,pod5
